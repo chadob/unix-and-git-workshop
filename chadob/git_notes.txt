@@ -1,0 +1,7 @@
+git init creates a repository in an existing folder
+git clone creates a copy(also known as a fork) of an existing repository
+files go between unmodified to tracked/untracked to staged and then back to unmodified.
+git add moves file to staging area
+git commit saves changes to repository
+git checkout enables branch switching
+git checkout -b allows a new branch to be created

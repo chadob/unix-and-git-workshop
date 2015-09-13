@@ -1,0 +1,10 @@
+cat  > redirects output of a command making a txt file
+cd is used to make something the current directory
+to add more text to a file you can use the >> [filename]
+cp copy's files
+mv moves files
+rm removes files
+clear wipes the console screen
+mkdir [filename] creates a new directory
+. signifies current directory
+.. signifies parent of current directory
